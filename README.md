@@ -4,6 +4,10 @@ description: Instl - A zero setup installer for your GitHub projects
 
 # 👋 Welcome
 
+{% hint style="warning" %}
+This documentation is work in progress!
+{% endhint %}
+
 {% hint style="info" %}
 Instl is an installer for GitHub projects. It does not need any setup, but can be configured in the rare case that your project layout is not automatically detected.
 {% endhint %}
