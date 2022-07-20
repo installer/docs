@@ -18,7 +18,7 @@
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="" baseUrl="https://instl.sh/api/stats" summary="" %}
+{% swagger method="get" path="/owner/repo" baseUrl="https://instl.sh/api/stats" summary="Get installation count of specific project" %}
 {% swagger-description %}
 
 {% endswagger-description %}
@@ -30,4 +30,14 @@
 {% swagger-parameter in="path" name="repo" required="true" %}
 
 {% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="Installation count per platform" %}
+```javascript
+{
+    "linux": 0,
+    "macos": 1,
+    "windows": 2
+}
+```
+{% endswagger-response %}
 {% endswagger %}
