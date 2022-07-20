@@ -2,7 +2,7 @@
 
 
 
-{% swagger method="get" path="" baseUrl="https://instl.sh/api/stats" summary="Get installation count of all projects that use instl.sh" %}
+{% swagger method="get" path="" baseUrl="https://instl.sh/api/stats" summary="Installation count of all projects that use instl.sh" %}
 {% swagger-description %}
 
 {% endswagger-description %}
@@ -18,17 +18,17 @@
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/owner/repo" baseUrl="https://instl.sh/api/stats" summary="Get installation count of specific project" %}
+{% swagger method="get" path="/owner/repo" baseUrl="https://instl.sh/api/stats" summary="Installation count of specific project" %}
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" required="true" name="owner" %}
-
+{% swagger-parameter in="path" required="true" name="owner" type="String" %}
+Owner of GitHub Repository
 {% endswagger-parameter %}
 
-{% swagger-parameter in="path" name="repo" required="true" %}
-
+{% swagger-parameter in="path" name="repo" required="true" type="String" %}
+GitHub Repository name
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="Installation count per platform" %}
