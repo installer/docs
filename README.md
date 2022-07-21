@@ -28,6 +28,8 @@ See more in our "Getting Started" guide!
 
 {% hint style="info" %}
 INSTL features statistics to see the installation count of various projects.
+
+You can also create badges with the installation count!
 {% endhint %}
 
 More about viewing the statistics in the "Statistics" section.
