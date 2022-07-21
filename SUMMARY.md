@@ -1,8 +1,15 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
-* [Getting Started](getting-started.md)
-* [Check Your System](check-your-system.md)
+
+## 🔥 Usage
+
+* [Getting Started](usage/getting-started.md)
+* [Supported Project Structure](usage/supported-project-structure.md)
+
+## 📊 Statistics
+
+* [Installation Statistics](statistics/installation-statistics.md)
 
 ## 📦 API
 
