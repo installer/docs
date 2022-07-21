@@ -34,10 +34,9 @@ GitHub Repository name
 {% swagger-response status="200: OK" description="Installation count per platform" %}
 ```javascript
 {
-    "linux": 3,
-    "macos": 10,
-    "windows": 15,
-    "total": 28
+    "linux": 0,
+    "macos": 1,
+    "windows": 2
 }
 ```
 {% endswagger-response %}
