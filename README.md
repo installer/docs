@@ -4,10 +4,6 @@ description: Instl - A zero setup installer for your GitHub projects
 
 # 👋 Welcome
 
-{% hint style="warning" %}
-This documentation is work in progress!
-{% endhint %}
-
 {% hint style="info" %}
 Instl is an installation script generator for GitHub projects. It does not need any setup, and can be used to install most GitHub projects on Linux, macOS and Windows.
 
