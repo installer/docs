@@ -30,7 +30,7 @@ See more in our "Getting Started" guide!
 INSTL features statistics to see the installation count of various projects.
 {% endhint %}
 
-More about viewing the statistics in the "STATISTICS" section.
+More about viewing the statistics in the "Statistics" section.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
