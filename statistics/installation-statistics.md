@@ -14,15 +14,14 @@ https://instl.sh/OWNER/REPO
 
 You can also create a badge of your project's total installation count:
 
-```
-Base URL: https://img.shields.io/endpoint?url=https://instl.sh/stats/OWNER/REPO/badge/shields.io
+<pre><code>Base URL: https://img.shields.io/endpoint?url=https://instl.sh/stats/OWNER/REPO/badge/shields.io
 
-Markdown: 
-![Downloads](https://img.shields.io/endpoint?url=https://instl.sh/stats/OWNER/REPO/badge/shields.io)
+<strong>Markdown: 
+</strong>![Downloads](https://img.shields.io/endpoint?url=https://instl.sh/stats/OWNER/REPO/badge/shields.io)
 
 HTML:
-<img src="https://img.shields.io/endpoint?url=https://instl.sh/stats/OWNER/REPO/badge/shields.io" />
-```
+&#x3C;img src="https://img.shields.io/endpoint?url=https://instl.sh/stats/OWNER/REPO/badge/shields.io" />
+</code></pre>
 
 You can customize the badge by passing options to shields.\
 Documentation: [https://shields.io/](https://shields.io/)

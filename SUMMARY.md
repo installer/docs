@@ -7,6 +7,10 @@
 * [Getting Started](usage/getting-started.md)
 * [Supported Project Structure](usage/supported-project-structure.md)
 
+## 🥇 Badges
+
+* [Installation count](badges/installation-count.md)
+
 ## 📊 Statistics
 
 * [Installation Statistics](statistics/installation-statistics.md)
