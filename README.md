@@ -1,6 +1,5 @@
 ---
 description: Instl - A zero setup installer for your GitHub projects
-layout: landing
 ---
 
 # 👋 Welcome
