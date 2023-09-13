@@ -9,7 +9,7 @@
 
 ## 🥇 Badges
 
-* [Installation count](badges/installation-count.md)
+* [Installation Count](badges/installation-count.md)
 
 ## 📊 Statistics
 
