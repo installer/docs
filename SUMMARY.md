@@ -14,6 +14,7 @@
 ## 📦 API
 
 * [Installation Statistics](api/stats.md)
+* [Shields.io Badge](api/shields.io-badge.md)
 
 ## 💙 contributing
 

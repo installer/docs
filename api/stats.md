@@ -24,7 +24,7 @@ description: Statistics API of instl
 
 {% swagger method="get" path="/user/repo" baseUrl="https://instl.sh/api/v1/stats" summary="Installation count of specific project" %}
 {% swagger-description %}
-Get installation statistics of a specific repo
+
 {% endswagger-description %}
 
 {% swagger-parameter in="path" required="true" name="user" type="String" %}
