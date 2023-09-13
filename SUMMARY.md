@@ -13,7 +13,7 @@
 
 ## 📦 API
 
-* [Stats](api/stats.md)
+* [Installation Statistics](api/stats.md)
 
 ## 💙 contributing
 
