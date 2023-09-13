@@ -6,6 +6,7 @@
 
 * [Getting Started](usage/getting-started.md)
 * [Supported Project Structure](usage/supported-project-structure.md)
+* [Verbose Output](usage/verbose-output.md)
 
 ## 🥇 Badges
 
