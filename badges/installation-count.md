@@ -17,13 +17,13 @@ You can customize the badge by [passing options to shields.io](https://shields.i
 ## Markdown
 
 ```markdown
-![Downloads](https://img.shields.io/endpoint?url=https://instl.sh/api/v1/badge/shields.io/stats/OWNER/REPO)
+![Installation count](https://img.shields.io/endpoint?url=https://instl.sh/api/v1/badge/shields.io/stats/OWNER/REPO)
 ```
 
 ## HTML
 
 ```html
-<img src="https://img.shields.io/endpoint?url=https://instl.sh/api/v1/badge/shields.io/stats/OWNER/REPO" />
+<img alt="Installation count" src="https://img.shields.io/endpoint?url=https://instl.sh/api/v1/badge/shields.io/stats/OWNER/REPO" />
 ```
 
 ## API Specification
