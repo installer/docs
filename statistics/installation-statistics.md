@@ -9,7 +9,7 @@ description: Get installation statistics about your projects
 You can view the installation count of your project by visiting this URL:
 
 ```
-https://instl.sh/stats/OWNER/REPO
+https://instl.sh/OWNER/REPO
 ```
 
 You can also create a badge of your project's total installation count:
@@ -29,4 +29,8 @@ Documentation: [https://shields.io/](https://shields.io/)
 
 ### Example
 
-![](https://img.shields.io/endpoint?url=https://instl.sh/stats/owner/repo/badge/shields.io)
+<div align="left">
+
+<img src="https://img.shields.io/endpoint?url=https://instl.sh/stats/owner/repo/badge/shields.io" alt="">
+
+</div>
